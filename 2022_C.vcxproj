@@ -127,8 +127,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="1-first.cpp" />
-    <ClCompile Include="fathm_ft.cpp" />
+    <ClCompile Include="1-first.c" />
+    <ClCompile Include="2-fathm_ft.c" />
+    <ClCompile Include="3-nogood.c" />
+    <ClCompile Include="4-two_func.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
